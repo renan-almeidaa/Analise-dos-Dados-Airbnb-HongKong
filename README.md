@@ -25,6 +25,11 @@ Com a finalidade de que algumas perguntas pudessem ser respondidas como:
 - Qual a média dos preços de aluguel?
 - Qual o tipo de imóvel mais alugado?
 
+# 📎 Links
+
+- [Link para o projeto completo](https://github.com/renan-almeidaa/Analise-dos-Dados-Airbnb-HongKong/blob/main/Analisando_os_Dados_do_Airbnb_Hong_Kong.ipynb)
+- <a href='https://www.linkedin.com/in/renan--gs/'> Meu linkedin </a>
+
 # 🚀 Tecnologias
 
 - [Pandas](https://pandas.pydata.org)
@@ -33,6 +38,4 @@ Com a finalidade de que algumas perguntas pudessem ser respondidas como:
 - [seaborn](https://seaborn.pydata.org)
 - [folium](https://python-visualization.github.io/folium/)
 
-# 📎 Mais informações, links e artigos
 
-- <a href='https://www.linkedin.com/in/renan--gs/'> Meu linkedin </a>
